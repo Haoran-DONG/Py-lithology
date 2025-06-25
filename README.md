@@ -7,6 +7,8 @@ Using python to plot some lithology patterns commonly used in geology. (Early Ve
 - Plotting of lithology patterns using Python.
 - Symbols are based on common geological standards.
 - All plots are generated entirely using Python, relying on libraries such as `numpy`, `pandas`, and `matplotlib`.
+- The built-in `matplotlib` hatching (`hatch`) functionality is not used, as it was found unsuitable for representing geological textures.
+
 
 ## References
 
