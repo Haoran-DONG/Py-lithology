@@ -1,0 +1,14 @@
+Age,Elevation,Thickness,Lithology
+Triassic,300,100,limestone
+Triassic,150,150,mudstone
+Triassic,-400,550,limestone
+Permian,-500,100,mudstone
+Permian,-800,300,limestone
+Permian,-1000,200,limestone
+Silurian,-1300,300,siltstone
+Silurian,-2000,700,shale
+Ordovician,-2300,300,limestone
+Cambrian,-2800,500,dolomite
+Cambrian,-4000,1200,gypsite
+Sinian,-5200,1200,dolomite
+Sinian,-6000,800,halite
